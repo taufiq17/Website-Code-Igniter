@@ -1,0 +1,13 @@
+catatan :
+untuk setiap pemanggilan file seperti css/javascript/image gunakan perintah <?php echo base_url();?>
+
+untuk setiap pemanggilan file controller atau pindah halaman gunakan perintah <?php echo site_url('');?>
+
+buat beberapa file php pada view_admin
+-header
+-left-menu
+-dashboard
+-content-main
+-footer
+-tabel
+-form
